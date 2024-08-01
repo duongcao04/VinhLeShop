@@ -1,0 +1,42 @@
+.carousel{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(42, 83, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.productList{
+    display: flex;
+    padding: 10px;
+}
+
+.sp{
+    height: 400px;
+    width: 200px;
+    background-color: burlywood;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.sp img{
+    height: 300px;
+    width: 200px;
+}
+
+.sp button{
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}

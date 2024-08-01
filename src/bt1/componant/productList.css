@@ -1,0 +1,8 @@
+.productList{
+    height: 500px;
+    width: 100%;
+    color: blue;
+    background-color: rgb(240, 235, 244);
+    display: flex;
+    justify-content: space-evenly;
+}

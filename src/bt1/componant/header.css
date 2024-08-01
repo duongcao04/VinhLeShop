@@ -1,0 +1,24 @@
+.header{
+    color: #00ffff;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    margin-left: 200px;
+}
+
+.item{
+    color: hwb(30 6% 93%);
+    background-color: rgb(244, 238, 238);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item1{
+    background-color: rgb(62, 76, 201);
+    color: rgb(230, 230, 238);
+
+}
